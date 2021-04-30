@@ -1,7 +1,7 @@
 {
   "name": "Virus Checker",
-  "description": "Checks sent attachments for any viruses in them. Checking provided by virustotal.com.",
-  "author": "lav#5778",
-  "version": "1.0.0",
+  "description": "Checks sent attachments for any viruses in them. Checking provided by hybrid-analysis.com. Forked from Lav#2975. Thanks to jpsl00#0001 for making me feel stupid",
+  "author": "DarkNeX",
+  "version": "1.0.13",
   "license": "MIT"
 }
