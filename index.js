@@ -44,7 +44,7 @@ class VirusChecker extends Plugin {
             }
 
             const req = post(
-              'https://www.hybrid-analysis.com/api/v2/quick-scan/url'
+              'https://www.hybrid-analysis.com/api/v2/submit/url'
             );
             req.set('api-key', key);
             req.set('Content-Type', 'application/x-www-form-urlencoded');
@@ -58,8 +58,8 @@ class VirusChecker extends Plugin {
               });
 
               req.send({
-                scan_type: 'all',
                 url: args[0].url,
+                environment_id: '110',
               });
               const { body } = await req.execute();
               console.log(body);
