@@ -10,5 +10,7 @@ After you have acquired your API key, head to your user settings and navigate to
 
 To use the plugin, simply find a message with a file attachment and click the "shield" button.
 
+Forked from [Lavgup](https://github.com/lavgup/virus-checker)
+
 ### Preview
 ![Preview](https://i.imgur.com/tFTI6lb.gif)
