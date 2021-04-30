@@ -7,6 +7,6 @@
   "VC_MAKE_SURE": "Make sure you provided a valid key!",
   "VC_FAILED_BROWSER": "Failed to open browser:",
   "GOT_IT": "Got it",
-  "YOUR_KEY": "Your VirusTotal API key. Don't share this with anyone else.",
+  "YOUR_KEY": "Your Hybrid-Analysis API key. Don't share this with anyone else.",
   "API_KEY": "API Key"
 }
